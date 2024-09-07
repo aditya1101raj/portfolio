@@ -719,8 +719,8 @@ padding: .5rem 0;
     height: 500px;
     width: 500px;
     
-    background: url("Untitled-design.png");
-    background-size:contain;
+    background: url("li.jpg");
+    background-size:cover;
      background-repeat: no-repeat;
      background-position: center;
      float:left;
@@ -728,7 +728,9 @@ padding: .5rem 0;
      margin-bottom: 60px;
      padding-top: 0;
      margin-top: 0;
-    
+     border-radius:50%;
+    border: 5px solid silver;
+    border-radius:50%;
      
      
  
