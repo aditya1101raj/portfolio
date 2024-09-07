@@ -148,7 +148,7 @@ body{
    height: 500px;
    width: 500px;
    background: url("li.jpg");
-   background-size:contain;
+   background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
     float:left;
