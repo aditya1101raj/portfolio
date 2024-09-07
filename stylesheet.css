@@ -147,11 +147,13 @@ body{
    /* background: "Untitled-design.png"; */
    height: 500px;
    width: 500px;
-   background: url("Untitled-design.png");
+   background: url("li.png");
    background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
     float:left;
+    margin: 10px;
+    border: 5px solid silver;
 
 
 }
